@@ -8,7 +8,8 @@
 
 | Nombre | Github nickname |
 |--------|-----------------|
-|Catalina Garcia|@catabeek||Jaime Oviedo|@jaoviedoc|
+|Catalina Garcia|@catabeek|
+|Jaime Oviedo|@jaoviedoc|
 
 # Introducción
 
