@@ -15,31 +15,34 @@
 
 ## Problemática
 
- El fin de nuestro programa es la descripción de las características generales (ventajas y desventajas) que
-posee un perfil de suelo previamente analizado por el usuario. Pensamos crear una herramienta útil que
-facilite el manejo de datos por parte de una persona que tenga conocimientos básicos de edafología (rama de
-la geología encargada de estudiar la composición y naturaleza del suelo) como ingeniero agrónomo o
-agrícola. La idea del programa es que cuando este se ejecute, aparezca un menú desplegable con unas
-variables de ingreso obligatorio y no obligatorio que el usuario tendrá que completar con los datos que
-previamente tomó en campo
+Cuando se realiza un estudio de suelos, se cuantifican ciertas características del mismo pero su correcta interpretación para describir las propiedades, puede llegar a ser engorrosa debido a la cantidad de variables manejadas.
 
 ## Marco teórico
 
-<Sustento teórico del proyecto. Referencias: artículos, sitios web>
+La descripción detallada de los suelos se hace en base a la clasificación realizada por el [departamento de agricultura de los estados unidos (USDA)](https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs142p2_051546.pdf) quien ha determinado varios parámetros o requerimientos necesarios.
+
+
+Otra herramienta a emplear son las presentaciones que se han abarcado en la clase “[suelos agrícolas](https://sites.google.com/unal.edu.co/ingenieril)” en la que somos asistentes.
 
 ## Antecedentes
 
-<Aplicaciones similares, url's de los repos>
+Realizando una investigación exhaustiva, se encontraron los 2 siguientes programas:
+
+ 1.	[CLASIFICACIÓN DE LOS SUELOS SEGÚN LA AASHTO](https://documents.tips/documents/software-para-clasificacion-de-los-suelos.html): Trabajo realizado M.Albarracín et ál, 2012, 
+
+  2.	[GGU – STRATIG](http://www.ggu-software.com/software/ggu-field/stratig/ggu-stratig_s.html): Software para el análisis de resultados y representación gráfica de datos obtenidos en exploraciones del suelo con diferentes métodos de perforación, la licencia es paga y varía según la funcionalidad del programa.   
 
 # Objetivos
 
 ## General
 
-<Enmarque el proyecto en un objetivo global>
+  Descripción de las características generales (ventajas y desventajas)  que posee un perfil de suelo previamente analizado por el usuario.  
 
 ## Específicos
 
-<Desglose el objetivo general en específicos>
+  •	Almacenamiento de los datos ingresados por parte del usuario.
+•	Análisis y comparación con las metodologías ingresadas. 
+  
 
 # Requisitos
 
