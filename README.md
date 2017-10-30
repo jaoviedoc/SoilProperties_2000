@@ -28,19 +28,19 @@ Otra herramienta a emplear son las presentaciones que se han abarcado en la clas
 
 Realizando una investigación exhaustiva, se encontraron los 2 siguientes programas:
 
-1.	[CLASIFICACIÓN DE LOS SUELOS SEGÚN LA AASHTO](https://documents.tips/documents/software-para-clasificacion-de-los-suelos.html): Trabajo realizado M.Albarracín et ál, 2012, 
+1.	[CLASIFICACIÓN DE LOS SUELOS SEGÚN LA AASHTO](https://documents.tips/documents/software-para-clasificacion-de-los-suelos.html): Trabajo realizado M.Albarracín et ál, 2012. 
 1.	[GGU – STRATIG](http://www.ggu-software.com/software/ggu-field/stratig/ggu-stratig_s.html): Software para el análisis de resultados y representación gráfica de datos obtenidos en exploraciones del suelo con diferentes métodos de perforación, la licencia es paga y varía según la funcionalidad del programa.   
 
 # Objetivos
 
 ## General
 
-  Descripción de las características generales (ventajas y desventajas)  que posee un perfil de suelo previamente analizado por el usuario.  
+Describir las características generales (ventajas y desventajas) que posee un suelo a partir de un perfil del mismo previamente analizado por el usuario.  
 
 ## Específicos
 
-*	Almacenamiento de los datos ingresados por parte del usuario.
-*	Análisis y comparación con las metodologías ingresadas. 
+*	Almacenar los datos ingresados por parte del usuario.
+*	Análizar y comparar con las metodologías ingresadas. 
   
 
 # Requisitos
